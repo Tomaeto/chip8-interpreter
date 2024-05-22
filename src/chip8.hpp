@@ -4,6 +4,7 @@
 #include <fstream>
 #include <random>
 #include <chrono>
+#include <string.h>
 
 const unsigned int REG_COUNT = 16;
 const unsigned int MEM_SIZE = 4096;
