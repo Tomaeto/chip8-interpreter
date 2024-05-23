@@ -501,3 +501,6 @@ void Chip8::op_fx65() {
         registers[i] = memory[memory_index + i];
     }
 }
+
+//Dummy operation
+void Chip8::op_null() {}
