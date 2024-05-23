@@ -1,2 +1,2 @@
 # chip8-interpreter
-Chip8 Rom Player
+CHIP-8 Emulator
